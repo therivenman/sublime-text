@@ -5,7 +5,8 @@ Installed Packages:
 
 Home
 ----------
-LiveReload	
+LiveReload
+AdvancedNewFile
 
 Common
 -------------------
@@ -14,7 +15,7 @@ Theme - Soda
 SideBarEnhancements
 Git
 All Autocomplete
-Trailing Spaces
+TrailingSpaces
 
 Custom Repo
 -----------
