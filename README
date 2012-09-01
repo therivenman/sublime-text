@@ -1,2 +1,17 @@
 This repository contains all of my user settings for Sublime Text 2 (the best
 text editor I've used so far).
+
+Installed Packages:
+
+	Home		|		Work
+----------------------------------
+LiveReload		|		Ctags
+
+			Common
+----------------------------------
+		Package Control
+		Theme - Soda
+		SideBarEnhancements
+		Git
+		All Autocomplete
+		Trailing Spaces

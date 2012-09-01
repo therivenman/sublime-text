@@ -1,0 +1,18 @@
+{
+	"font_face": "Anonymous Pro",
+	"font_size": 14,
+	"font_options": ["bold"],
+	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"default_line_ending": "unix",
+	"highlight_line": true,
+	"draw_white_space": "selection",
+    "theme": "Soda Dark.sublime-theme",
+    "fold_buttons": false,
+	"ignored_packages":
+	[
+	],
+	"rulers": [80],
+	"vintage_start_in_command_mode": true,
+	"trailing_spaces_highlight_color": "invalid"
+}
