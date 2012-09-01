@@ -3,15 +3,19 @@ text editor I've used so far).
 
 Installed Packages:
 
-	Home		|		Work
-----------------------------------
-LiveReload		|		Ctags
+Home
+----------
+LiveReload	
 
-			Common
-----------------------------------
-		Package Control
-		Theme - Soda
-		SideBarEnhancements
-		Git
-		All Autocomplete
-		Trailing Spaces
+Common
+-------------------
+Package Control
+Theme - Soda
+SideBarEnhancements
+Git
+All Autocomplete
+Trailing Spaces
+
+Custom Repo
+-----------
+Ctags
