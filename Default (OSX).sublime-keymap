@@ -14,6 +14,7 @@
 	{ "keys": ["\\", "l", "q"], "command": "toggle_comment", "args": { "block": true } },
 	{ "keys": ["\\", "l", "w"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["\\", "l", "l"], "command": "toggle_trailing_spaces" },
+	{ "keys": ["\\", "i", "v"], "command": "toggle_vintage_mode" },
 
 	{ "keys": ["\\", "w"], "command": "save" },
 	{ "keys": ["\\", "n"], "command": "advanced_new_file"},
