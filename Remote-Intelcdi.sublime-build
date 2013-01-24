@@ -1,4 +1,4 @@
 {
-	"cmd": ["ssh", "debian", "cd /home/mwettlaufer/work/intel/intelcdi/;build hr44"],
+	"cmd": ["ssh", "darkhorse", "cd /home/mwettlaufer/work/intel/intelcdi/;remote_build hr44"],
 	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?: ? (.*)$"
 }

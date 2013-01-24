@@ -1,4 +1,4 @@
 {
-	"cmd": ["ssh", "debian", "cd /home/mwettlaufer/work/intel/heliostools/;build cditools"],
+	"cmd": ["ssh", "darkhorse", "cd /home/mwettlaufer/work/intel/heliostools/;remote_build cditools"],
 	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?: ? (.*)$"
 }
